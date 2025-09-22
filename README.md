@@ -9,7 +9,7 @@ As a software engineer from Ghana, my purpose was to master Kotlin’s syntax an
 # Development Environment
 
 - **Tools**: IntelliJ IDEA Community Edition, JDK 17, Git
-- **Programming Language**: Kotlin, chosen for its concise syntax, interoperability with Java, and robust standard library (e.g., collections).
+- **Programming Language**: Kotlin, chosen for its concise syntax, interoperability with Java, and robust standard library (e.g., collections)..
 
   # Useful Websites
 
